@@ -6,4 +6,3 @@ wordpress_sites:
   example.com:
     site_hosts:
       - example.dev
-    local_path: ../nafve # path targeting local Bedrock site directory (relative to Ansible root)
