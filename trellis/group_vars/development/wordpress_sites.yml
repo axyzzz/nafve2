@@ -7,11 +7,3 @@ wordpress_sites:
     site_hosts:
       - example.dev
     local_path: ../nafve # path targeting local Bedrock site directory (relative to Ansible root)
-    admin_email: admin_email@example.com
-    multisite:
-      enabled: false
-    ssl:
-      enabled: false
-      provider: self-signed
-    cache:
-      enabled: false
