@@ -5,6 +5,6 @@ vault_mysql_root_password: devpw
 # Note: the site name (`example.com`) must match up with the site name in the above file.
 vault_wordpress_sites:
   nafveqvarn.dev:
-    admin_password: admin
+    admin_password: pass
     env:
       db_password: nafve_dbpassword

@@ -5,7 +5,7 @@
 wordpress_sites:
   nafveqvarn.dev:
     site_hosts:
-      - cannonical: nafveqvarn.dev
+      - nafveqvarn.dev
     local_path: ../nafve # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: christoofer@gmail.com
     multisite:
